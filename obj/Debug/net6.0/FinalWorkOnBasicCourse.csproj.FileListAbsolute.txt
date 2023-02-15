@@ -1,0 +1,15 @@
+C:\Users\gulnu\Desktop\FinalWorkOnBasicCourse\bin\Debug\net6.0\FinalWorkOnBasicCourse.exe
+C:\Users\gulnu\Desktop\FinalWorkOnBasicCourse\bin\Debug\net6.0\FinalWorkOnBasicCourse.deps.json
+C:\Users\gulnu\Desktop\FinalWorkOnBasicCourse\bin\Debug\net6.0\FinalWorkOnBasicCourse.runtimeconfig.json
+C:\Users\gulnu\Desktop\FinalWorkOnBasicCourse\bin\Debug\net6.0\FinalWorkOnBasicCourse.dll
+C:\Users\gulnu\Desktop\FinalWorkOnBasicCourse\bin\Debug\net6.0\FinalWorkOnBasicCourse.pdb
+C:\Users\gulnu\Desktop\FinalWorkOnBasicCourse\obj\Debug\net6.0\FinalWorkOnBasicCourse.csproj.AssemblyReference.cache
+C:\Users\gulnu\Desktop\FinalWorkOnBasicCourse\obj\Debug\net6.0\FinalWorkOnBasicCourse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gulnu\Desktop\FinalWorkOnBasicCourse\obj\Debug\net6.0\FinalWorkOnBasicCourse.AssemblyInfoInputs.cache
+C:\Users\gulnu\Desktop\FinalWorkOnBasicCourse\obj\Debug\net6.0\FinalWorkOnBasicCourse.AssemblyInfo.cs
+C:\Users\gulnu\Desktop\FinalWorkOnBasicCourse\obj\Debug\net6.0\FinalWorkOnBasicCourse.csproj.CoreCompileInputs.cache
+C:\Users\gulnu\Desktop\FinalWorkOnBasicCourse\obj\Debug\net6.0\FinalWorkOnBasicCourse.dll
+C:\Users\gulnu\Desktop\FinalWorkOnBasicCourse\obj\Debug\net6.0\refint\FinalWorkOnBasicCourse.dll
+C:\Users\gulnu\Desktop\FinalWorkOnBasicCourse\obj\Debug\net6.0\FinalWorkOnBasicCourse.pdb
+C:\Users\gulnu\Desktop\FinalWorkOnBasicCourse\obj\Debug\net6.0\FinalWorkOnBasicCourse.genruntimeconfig.cache
+C:\Users\gulnu\Desktop\FinalWorkOnBasicCourse\obj\Debug\net6.0\ref\FinalWorkOnBasicCourse.dll
